@@ -1,4 +1,3 @@
-# bert-chatbot-streamlit
 # BERT Chatbot with Streamlit
 
 A BERT-powered chatbot built using Streamlit, Hugging Face Transformers, and PyTorch. This application leverages pre-trained BERT embeddings to understand user queries and generate responses based on a set of predefined Q&A pairs. It also features a custom background image for an enhanced user experience.
